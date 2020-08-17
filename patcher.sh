@@ -1,5 +1,5 @@
 #!/bin/bash
-mmcroot="$HOME/MultiMC"
+mmcroot="$HOME/.local/share/multimc"
 debug="0"
 
 if [ $debug == "1" ]; then

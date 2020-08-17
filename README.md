@@ -1,4 +1,4 @@
-# [DEPRACATED] MultiMC-Patcher - Please use ARM64 version of MultiMC
+# MultiMC-Patcher - Modified to work on Manjaro ARM
 Patches MultiMC Instances for ARM64/Aarch64
 
 fixlibgl3.sh was modified from [this GitLab Snippet](https://gitlab.com/snippets/1933165)
@@ -27,3 +27,5 @@ Use MultiMC from [here](https://github.com/JJTech0130/MultiMC5/releases) (latest
 + Uses compiled binaries for LWJGL2 Aarch64 found [here](https://github.com/JJTech0130/Aarch64-Natives) (The script actually gets them from my dropbox)
 + Gets LWJGL3 directly from maven.
 + This is still a mess. Please feel free to contribute/ clean up!
+
+Credits to @JJTech0130 for the script

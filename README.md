@@ -28,4 +28,3 @@ Use MultiMC from [here](https://github.com/JJTech0130/MultiMC5/releases) (latest
 + Gets LWJGL3 directly from maven.
 + This is still a mess. Please feel free to contribute/ clean up!
 
-Credits to @JJTech0130 for the script

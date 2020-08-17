@@ -16,7 +16,7 @@ archsuffix=
 case $(uname -m) in
 	x86_64)
 		if [[ $javaarch == 32 ]]; then
-			echo "[ERROR] 32-bit x86 is not supported."
+			echo "[ERROR] 32-bit x86 is not supported!"
 			exit 1
 		fi
 		;;
